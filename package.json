@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Html to Plain Text", "excel plain text", "convert html to text"],
+  "author": "Vimal Trivedi",
   "license": "ISC",
   "dependencies": {
     "html-to-formatted-text": "^2.7.0",
-    "utf8": "^3.0.0",
     "xlsx": "^0.17.0"
   }
 }
